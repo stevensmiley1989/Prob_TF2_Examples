@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Capstone Project}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Probabilistic generative models}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Instructions}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{How to submit}{subsection.1.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.1.3}{Let's get started!}{subsection.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.2}{2. Create the image dataset}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.3}{3. Make tf.data.Dataset objects}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.4}{4. Build the encoder and decoder networks}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.5}{5. Train the variational autoencoder}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.6}{6. Use the encoder and decoder networks}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.7}{Make a video of latent space interpolation \(not assessed\)}{section.1}% 11
